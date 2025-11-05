@@ -1,0 +1,10 @@
+
+{
+  "name": "TripMate AI",
+  "description": "A comprehensive AI-powered travel assistant to help you navigate, translate, plan, and stay safe on your journeys. Your all-in-one travel copilot.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
