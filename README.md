@@ -8,6 +8,8 @@ It provides instant answers to your travel questions, creates personalized visua
 ## ✨ Key Features
 
 - **🏠 Smart Home Dashboard:** Get instant context with a dynamic home screen showing your current location, live weather, and proactive, AI-generated travel tips for your day.
+<img width="3020" height="1674" alt="image" src="https://github.com/user-attachments/assets/8a83bc56-a3d4-4320-9f5f-d59b10931311" />
+
 - **💬 Conversational AI Assistant:** Chat with your personal travel copilot. Ask for recommendations, get historical context on landmarks by uploading photos, and receive location-aware answers to any question.
 - **🗓️ Intelligent Day Planner:** Stop stressing about planning. Simply state your interests, and the AI will generate a complete, day-by-day itinerary with specific places, restaurants, and activities, complete with a beautiful visual summary collage.
 - **📸 Travel Lens:** Explore like a local. Use your camera to take a picture of a monument, menu, or sign, and get an instant analysis and description.
